@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 71e39a6eb398a7a4586beb1e15002a58
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Barbaro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4705b75c8ea0dab4eb021290fe9f34bb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

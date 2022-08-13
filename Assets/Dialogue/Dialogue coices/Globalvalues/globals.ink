@@ -1,0 +1,6 @@
+VAR emotion_state = ""
+VAR ass_size = ""
+VAR money_count = ""
+VAR SheriffBrothersHatEncounter = ""
+VAR SaloonRobberyEncounter = ""
+VAR ShopKeeperMilk = ""
